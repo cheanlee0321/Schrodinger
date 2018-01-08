@@ -1,4 +1,7 @@
 # Schrodinger
-1D 2D Schrodinger solver practice
+1D 2D Schrodinger solver with parallel computing using omp.
 
-Reference is Jerry's lectire note
+Eigen library is required.
+http://eigen.tuxfamily.org/index.php?title=Main_Page
+
+Reference : Schrodinger solver-Jerry.pptx
