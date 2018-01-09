@@ -6,16 +6,18 @@
 # include <cstdlib>
 # include <math.h>
 # include <time.h>
-# include <eigen3/Eigen/Dense>
+# include <Eigen/Dense>
 
 using namespace std;
 using namespace Eigen;
 
 Schrodinger::Schrodinger()
 {
-    omp_set_num_threads(8);
+    //control how many cpu for parallel computing.
+
+    omp_set_num_threads(8); //for C++ code
     Eigen::initParallel();
-    Eigen::setNbThreads(8);
+    Eigen::setNbThreads(8); //for Eigen Code
 }
 
 Schrodinger::~Schrodinger(){
@@ -759,7 +761,6 @@ void Schrodinger::Schro_PrintEigenVectors1D(const char *path, int nb){
 
     output.close();
 }
-
 
 void Schrodinger::Schro_Merge(int low,int mid,int high){
 
