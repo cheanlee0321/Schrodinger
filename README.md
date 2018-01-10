@@ -11,3 +11,6 @@ Schrodinger Solver
 
 Eigen Solver
 >Reference : Lecture - Iterative Methods for Computing Eigenvalues and Eigenvectors
+
+Block Meshing Explanation
+>Reference : Block Meshing Explanation.pptx
