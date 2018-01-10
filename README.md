@@ -6,4 +6,8 @@ http://eigen.tuxfamily.org/index.php?title=Main_Page
 
 Download Eigen, copy folder "Eigen" to /usr/local/include  
 
-Reference : Schrodinger solver-Jerry.pptx
+Schrodinger Solver
+>Reference : Schrodinger solver-Jerry.pptx
+
+Eigen Solver
+>Reference : Lecture - Iterative Methods for Computing Eigenvalues and Eigenvectors
