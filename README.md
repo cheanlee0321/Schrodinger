@@ -7,12 +7,12 @@ http://eigen.tuxfamily.org/index.php?title=Main_Page
 Download Eigen, copy folder "Eigen" to /usr/local/include  
 
 Schrodinger Solver
->Reference : Schrodinger solver-Jerry.pptx
+>Reference 1: Schrodinger solver-Jerry.pptx
 
 Eigen Solver
->Reference 1 : https://eigen.tuxfamily.org/dox/ 
+>Reference 2 : https://eigen.tuxfamily.org/dox/ 
 
->Reference 2 : Lecture - Iterative Methods for Computing Eigenvalues and Eigenvectors
+>Reference 3 : Lecture - Iterative Methods for Computing Eigenvalues and Eigenvectors
 
 Block Meshing Explanation
->Reference : Block Meshing Explanation.pptx
+>Reference 4: Block Meshing Explanation.pptx
